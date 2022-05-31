@@ -2,7 +2,7 @@
 A simple resolution to a common algorithm excercise.
 
 ## The problem
-**Print to the console a range of numbers 100 to 1, replacing those whitch are divisible by 3 with "Fizz", by 5 with "Buzz" and by both with "FizzBuzz".**
+**Print to the console a range of numbers 100 to 1, replacing those which are divisible by 3 with "Fizz", by 5 with "Buzz" and by both with "FizzBuzz".**
 
 *Example:*
 Buzz
